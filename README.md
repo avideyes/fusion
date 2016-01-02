@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h3>An angular js admin app.</h3>
 
 Uses several charing libraries including : 
@@ -44,3 +45,6 @@ Website will be deployed on http://localhost:8080 (path can be configured in the
 
 
 
+=======
+# fusion
+>>>>>>> origin/master
